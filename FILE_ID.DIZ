@@ -1,0 +1,14 @@
+8-Kb UUEncode  v1.1  (C) 1995 FRIENDS
++-----------------------------------+
+| The Fastest UU-Encoder Ever Coded |
+|Copyright (C) 1995 FRIENDS Software|
+|Written by Maxim Masiutin, 2:468/86|
+|-----------------------------------|
+| Don't requires any cmdline params |
+| Works fine on XT/186/V20 machines |
+| Splits any file on equal sections |
+| Uses high-performance disk access |
+| Sectn size is no bigger than 8 Kb |
+| Uses  386+ CPU  32-bit operations |
+| FREEWARE,PAS/ASM Sources Included |
++-----------------------------------+
